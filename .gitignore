@@ -4,3 +4,7 @@ logs/
 summaries/
 models/
 *.pyc
+.idea/*
+.idea/
+.idea/*.xml
+
